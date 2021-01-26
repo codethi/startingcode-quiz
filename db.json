@@ -1,7 +1,7 @@
 {
-   "bg": "https://i.imgur.com/9dyuscQ.png",
-   "title": "Quiz CSS da Alura",
-   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+   "bg": "https://i.imgur.com/1ycaY0l.png",
+   "title": "Quiz de desenvolvimento front-end",
+   "description": "Se você está iniciando seus estudos em tecnologias front-end, essa é uma oportunidade de testar seus conhecimentos aprendidos!",
    "questions": [
      {
        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
